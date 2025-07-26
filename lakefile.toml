@@ -1,0 +1,10 @@
+name = "guidorizzi"
+version = "0.1.0"
+defaultTargets = ["guidorizzi"]
+
+[[lean_lib]]
+name = "Guidorizzi"
+
+[[lean_exe]]
+name = "guidorizzi"
+root = "Main"
